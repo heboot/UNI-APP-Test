@@ -1,0 +1,6 @@
+<template name="1b5615ce">
+  <view class="_view data-v-31b07fdf index_title_container">
+    <text class="_text data-v-31b07fdf title">noonde.com</text>
+    <input type="text" password="true" placeholder="请输入密码" class="_input data-v-31b07fdf" />
+  </view>
+</template>

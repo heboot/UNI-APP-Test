@@ -1,0 +1,8 @@
+<template name="26a45348">
+  <view class="_view data-v-d3f7e4ce content">
+    <view class="_view data-v-d3f7e4ce btn-row">
+      <button wx:if="{{!hasLogin}}" type="primary" class="_button data-v-d3f7e4ce primary" bindtap="handleProxy" data-eventid="{{'cIn-0'}}" data-comkey="{{$k}}">登录</button>
+      <button wx:if="{{hasLogin}}" type="default" bindtap="handleProxy" data-eventid="{{'Epa-1'}}" data-comkey="{{$k}}" class="_button data-v-d3f7e4ce">退出登录</button>
+    </view>
+  </view>
+</template>

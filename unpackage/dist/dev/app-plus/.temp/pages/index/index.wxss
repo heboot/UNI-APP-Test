@@ -1,0 +1,19 @@
+
+.title {
+  font-size: 54rpx;
+  position: relative;
+}
+.index_title_container {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  flex: 1;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  background-color: #efeff4;
+  padding: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
